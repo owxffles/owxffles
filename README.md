@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux & free and open-source software**
 
-- 📫 Contact me on Discord **Waffles#2126**
+- 📫 Contact me on Discord **oWxffles#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
