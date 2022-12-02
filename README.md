@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waffles</h1>
 <h3 align="center">An aspiring Full Stack Web Developer from the United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waffles2126&label=Profile%20views&color=0e75b6&style=flat" alt="waffles2126" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owxffles&label=Profile%20views&color=0e75b6&style=flat" alt="owxffles" /> </p>
 
 - 🔭 I’m currently taking a course on [The Odin Project](https://www.theodinproject.com/)
 
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owxffles&show_icons=true&theme=dark&locale=en" alt="owxffles" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waffles2126&theme=dark" alt="owxffles" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owxffles&theme=dark" alt="owxffles" /></p>
