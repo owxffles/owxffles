@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently taking a course on [The Odin Project](https://www.theodinproject.com/)
 
-- 💬 Ask me about **Linux & free and open-source software**
-
 - 📫 Contact me on Discord **waffles#1234**
 
 <h3 align="left">Connect with me:</h3>
