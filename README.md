@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently taking a course on [The Odin Project](https://www.theodinproject.com/)
 
-- 📫 Contact me on Discord **waffles#1234**
+- 📫 Contact me on Discord **waffles#1190**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
