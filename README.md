@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waffles</h1>
 <h3 align="center">An aspiring Full Stack Web Developer from the United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owxffles&label=Profile%20views&color=0e75b6&style=flat" alt="owxffles" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=owxffles&label=Profile%20views&color=0e75b6&style=flat" alt="owxffles" /> </p> -->
 
 - 🔭 I’m currently taking a course on [The Odin Project](https://www.theodinproject.com/)
 
