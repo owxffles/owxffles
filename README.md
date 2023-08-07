@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owxffles&show_icons=true&theme=prussian&locale=en" alt="owxffles" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owxffles&theme=prussian alt="owxffles" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owxffles&theme=prussian" alt="owxffles" /></p>
