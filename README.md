@@ -3,8 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=owxffles&label=Profile%20views&color=0e75b6&style=flat" alt="owxffles" /> </p> -->
 
-- 🔭 I’m currently taking a course on [The Odin Project](https://www.theodinproject.com/)
-
 - 📫 Contact me on Discord **@owxffles**
 
 <h3 align="left">Languages and Tools:</h3>
